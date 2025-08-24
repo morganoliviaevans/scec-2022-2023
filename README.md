@@ -33,3 +33,5 @@ The `/simulations/` directory contains example data and results for 0.6Hz (low-r
 **Update:** 1.5Hz simulations are apparently too large for GitHub. Instead, please view [here](https://www.youtube.com/watch?v=5OeCtDuIKwE) on YouTube.
 
 This repository serves as a comprehensive record of my research experience with SCEC, providing insights into the seismic modeling tasks I completed and the knowledge gained. I hope it can be a valuable resource for anyone interested in similar work or future interns. Feel free to explore the repository, and don't hesitate to reach out if you have any questions! [morganoliviaevans@gmail.com](mailto:morganoliviaevans@gmail.com)
+
+[![DOI](https://zenodo.org/badge/847934146.svg)](https://doi.org/10.5281/zenodo.16937690)
