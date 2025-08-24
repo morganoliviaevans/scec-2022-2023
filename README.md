@@ -1,7 +1,7 @@
-# Southern California Earthquake Center Internship 2022-2023
+# Statewide California Earthquake Center Internship 2022-2023
 
 # Overview
-This repository showcases my research conducted during my internship with the Southern California Earthquake Center (SCEC) in 2022 and 2023. The research focused on seismic simulations in the Wellington, New Zealand region. I explored SW4 software performance on varying computing platforms and compared an older GNS basin thickness model to a newer basin thickness model developed by Stronach and Stern. The work spans low-resolution and high-resolution simulations, culminating in seismic models, detailed scaling analysis and technical paper.
+This repository showcases my research conducted during my internship with the Statewide California Earthquake Center (SCEC) in 2022 and 2023. The research focused on seismic simulations in the Wellington, New Zealand region. I explored SW4 software performance on varying computing platforms and compared an older GNS basin thickness model to a newer basin thickness model developed by Stronach and Stern. The work spans low-resolution and high-resolution simulations, culminating in seismic models, detailed scaling analysis and technical paper.
 
 This repository includes simulations, posters, technical paper, scripts, and documentation related to the research.
 
